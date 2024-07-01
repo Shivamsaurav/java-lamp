@@ -19,7 +19,6 @@ public class Demo {
         // String input
         String str = scanner.nextLine();
         System.out.println("Your entered : "+str);
-
         // Integer array input.
 
         scanner.close();
